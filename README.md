@@ -6,10 +6,10 @@ This is a puzzle minigame developed in the c # language with windows forms, noth
 It has two images which are the following:
 
 ## Happy Face
-![](https://raw.githubusercontent.com/SergioGomez321/puzzle/main/puzzle/assets/img/happyface.png)
+![](https://raw.githubusercontent.com/SergioGomez321/puzzle/main/Rompecabezas/assets/img/happyface.png)
 
 ## Yaoman
-![](https://raw.githubusercontent.com/SergioGomez321/puzzle/main/puzzle/assets/img/yaoman.png)
+![](https://raw.githubusercontent.com/SergioGomez321/puzzle/main/Rompecabezas/assets/img/yaoman.png)
 
 
 Any comment or criticism is welcome about this project
