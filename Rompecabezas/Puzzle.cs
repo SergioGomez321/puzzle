@@ -103,7 +103,7 @@ namespace Rompecabezas
               tiempo = 0;
               this.label1.Text = "0.0";
               Controles(true);  
-              MessageBox.Show("Perdiste la partida, el tiempo se ha agotado :(");
+              MessageBox.Show("You lost, time out :(");
               reacomodarRompecabezas();
             }
             /*Console.WriteLine("Coordenadas de Imagen1: {0}", this.pictureBox1.Location.ToString());
@@ -115,7 +115,7 @@ namespace Rompecabezas
                 this.label1.Text = "0.0";
                 Controles(true);
                 reacomodarRompecabezas();
-                MessageBox.Show("Haz ganado la partida!");
+                MessageBox.Show("Congratulations, you win!");
             }
         }
         public void Controles(bool valor)
