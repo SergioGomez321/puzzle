@@ -1,6 +1,6 @@
 ﻿namespace Rompecabezas
 {
-    partial class Rompecabezas
+    partial class Puzzle
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -97,7 +97,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(152, 46);
             this.button1.TabIndex = 9;
-            this.button1.Text = "Comenzar";
+            this.button1.Text = "Start";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -130,9 +130,9 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(71, 446);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(54, 13);
+            this.label2.Size = new System.Drawing.Size(50, 13);
             this.label2.TabIndex = 12;
-            this.label2.Text = "Dificultad:";
+            this.label2.Text = "Difficulty:";
             // 
             // label3
             // 
@@ -147,7 +147,7 @@
             // 
             this.comboBox2.FormattingEnabled = true;
             this.comboBox2.Items.AddRange(new object[] {
-            "Cara Feliz",
+            "Happy Face",
             "Yaoman"});
             this.comboBox2.Location = new System.Drawing.Point(472, 446);
             this.comboBox2.Name = "comboBox2";
@@ -161,9 +161,9 @@
             this.label4.Font = new System.Drawing.Font("Arial Black", 20.25F, System.Drawing.FontStyle.Bold);
             this.label4.Location = new System.Drawing.Point(465, 517);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(145, 38);
+            this.label4.Size = new System.Drawing.Size(91, 38);
             this.label4.TabIndex = 15;
-            this.label4.Text = "Tiempo: ";
+            this.label4.Text = "Time";
             // 
             // panel1
             // 
@@ -533,11 +533,11 @@
             this.pictureBox1.MouseMove += new System.Windows.Forms.MouseEventHandler(this.pictureBox1_MouseMove);
             this.pictureBox1.MouseUp += new System.Windows.Forms.MouseEventHandler(this.pictureBox1_MouseUp);
             // 
-            // Rompecabezas
+            // Puzzle
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.RosyBrown;
+            this.BackColor = System.Drawing.Color.MistyRose;
             this.ClientSize = new System.Drawing.Size(820, 608);
             this.Controls.Add(this.pictureBox16);
             this.Controls.Add(this.pictureBox15);
@@ -578,8 +578,8 @@
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);
-            this.Name = "Rompecabezas";
-            this.Text = "Rompecabezas";
+            this.Name = "Puzzle";
+            this.Text = "Puzzle";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox15)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).EndInit();

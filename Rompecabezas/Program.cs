@@ -16,7 +16,7 @@ namespace Rompecabezas
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Rompecabezas());
+            Application.Run(new Puzzle());
         }
     }
 }

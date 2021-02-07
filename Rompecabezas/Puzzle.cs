@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace Rompecabezas
 {
-    public partial class Rompecabezas : Form
+    public partial class Puzzle : Form
     {
         private Double tiempo = 0;
         private Double TiempoMaximo = 100;
@@ -18,7 +18,7 @@ namespace Rompecabezas
         private int ActualX, ActualY, ImagenActualX, ImagenActualY;
         // Posicion de cada imagen para desordenarlas
         List<Point> listaCoordenadas = new List<Point>(); 
-        public Rompecabezas()
+        public Puzzle()
         {
             InitializeComponent();
             Iniciar();

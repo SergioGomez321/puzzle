@@ -18,3 +18,13 @@ C:\Users\lupis\Desktop\Rompecabezas\Rompecabezas\obj\Debug\Rompecabezas.csproj.G
 C:\Users\lupis\Desktop\Rompecabezas\Rompecabezas\obj\Debug\Rompecabezas.csproj.CoreCompileInputs.cache
 C:\Users\lupis\Desktop\Rompecabezas\Rompecabezas\obj\Debug\Rompecabezas.exe
 C:\Users\lupis\Desktop\Rompecabezas\Rompecabezas\obj\Debug\Rompecabezas.pdb
+C:\Users\lupis\Documents\git-repositories\puzzle\Rompecabezas\bin\Debug\Rompecabezas.exe.config
+C:\Users\lupis\Documents\git-repositories\puzzle\Rompecabezas\bin\Debug\Rompecabezas.exe
+C:\Users\lupis\Documents\git-repositories\puzzle\Rompecabezas\bin\Debug\Rompecabezas.pdb
+C:\Users\lupis\Documents\git-repositories\puzzle\Rompecabezas\obj\Debug\Rompecabezas.csprojAssemblyReference.cache
+C:\Users\lupis\Documents\git-repositories\puzzle\Rompecabezas\obj\Debug\Rompecabezas.Rompecabezas.resources
+C:\Users\lupis\Documents\git-repositories\puzzle\Rompecabezas\obj\Debug\Rompecabezas.Properties.Resources.resources
+C:\Users\lupis\Documents\git-repositories\puzzle\Rompecabezas\obj\Debug\Rompecabezas.csproj.GenerateResource.cache
+C:\Users\lupis\Documents\git-repositories\puzzle\Rompecabezas\obj\Debug\Rompecabezas.csproj.CoreCompileInputs.cache
+C:\Users\lupis\Documents\git-repositories\puzzle\Rompecabezas\obj\Debug\Rompecabezas.exe
+C:\Users\lupis\Documents\git-repositories\puzzle\Rompecabezas\obj\Debug\Rompecabezas.pdb
